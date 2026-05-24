@@ -1,1 +1,2 @@
 Learning Git today.
+This is a test.
